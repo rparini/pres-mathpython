@@ -13,7 +13,7 @@ Python is a general purpose programming language with an emphasis on readability
 
 ## Videos
 A soliton solution of the sine-Gordon equation
-![Soliton](SolitonAnimation.gif)
+![Soliton](solitonAnimation.gif)
 
 Conway's Game of Life in Python
-![Game of Life](Life.gif)
+![Game of Life](life.gif)
