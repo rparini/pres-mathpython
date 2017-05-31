@@ -1,5 +1,5 @@
 ## Some Mathematical Python
-The slides and code for a talk on using Python for mathematical research. The slides themselves can be viewed online at [Talk/mathpythonTalk.pdf](Talk/mathpythonTalk.pdf) and the video animations downloaded and viewed separately in the [Talk](Talk) folder.  To get the videos to play embedded in the slides download the Talk folder and open the slides in Adobe Acrobat Reader.  
+The slides and code for a talk on using Python for mathematical research. The slides themselves can be viewed online at [Talk/mathpythonTalk.pdf](Talk/mathpythonTalk.pdf) and the videos [below](#Videos).  To get the videos to play embedded in the slides download the Talk folder and open the slides in Adobe Acrobat Reader.  
 
 Running the Python code requires Python 3 and some additional libraries which can be installed with
 ```bash
@@ -10,3 +10,10 @@ I gave this talk as part of the [Computing Seminars](https://www.dur.ac.uk/mathe
 
 ## Abstract
 Python is a general purpose programming language with an emphasis on readability and flexibility and has a well developed ecosystem of scientific computing packages. This makes it an excellent tool for mathematical research, where allowing for rapid iteration and experimentation can often be more important than maximising computational efficiency. I will discuss some of the general features of Python as well as examples of specific applications of interest to mathematicians including efficient matrix operations, symbolic algebra and interactive animations.
+
+## Videos
+A soliton solution of the sine-Gordon equation
+![Soliton](SolitonAnimation.gif)
+
+Conway's Game of Life in Python
+![Game of Life](Life.gif)

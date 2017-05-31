@@ -4,6 +4,7 @@
 # Except for…
 !.gitignore
 !README.md
+!*.gif
 
 # Ignore Code file contents
 Code/*
