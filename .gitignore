@@ -1,0 +1,26 @@
+# Blacklist files/folders in same directory as the .gitignore file
+/*
+
+# Except for…
+!.gitignore
+!README.md
+
+# Ignore Code file contents
+Code/*
+# Except…
+!Code/CppPrimes.cpp
+!/Code/CppPrimes.cpp
+!/Code/NumPyEx.ipynb
+!/Code/SymbolicEx.ipynb
+!/Code/HelloWorld!/HelloWorld.cpp
+!/Code/*.py
+!/Code/*.java
+!/Code/*.pyx
+
+
+# Ignore Talk file contents
+Talk/*
+# Except…
+!/Talk/*.mov
+!/Talk/mathpythonTalk.pdf
+
