@@ -12,7 +12,7 @@ I gave this talk as part of the [Computing Seminars](https://www.dur.ac.uk/mathe
 Python is a general purpose programming language with an emphasis on readability and flexibility and has a well developed ecosystem of scientific computing packages. This makes it an excellent tool for mathematical research, where allowing for rapid iteration and experimentation can often be more important than maximising computational efficiency. I will discuss some of the general features of Python as well as examples of specific applications of interest to mathematicians including efficient matrix operations, symbolic algebra and interactive animations.
 
 ## Videos
-A soliton solution of the sine-Gordon equation
+A soliton solution of the sine-Gordon equation animated in Python
 ![Soliton](solitonAnimation.gif)
 
 Conway's Game of Life in Python
