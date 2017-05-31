@@ -1,4 +1,4 @@
-The slides and code for a talk on using Python for mathematical research. The slides themselves can be viewed online at [Talk/mathpythonTalk.pdf](Talk/mathpythonTalk.pdf) and the video animations viewed separately in the [Talk](Talk) folder.  To get the videos to play embedded in the slides download the Talk folder and open the slides in Adobe Acrobat Reader.  
+The slides and code for a talk on using Python for mathematical research. The slides themselves can be viewed online at [Talk/mathpythonTalk.pdf](Talk/mathpythonTalk.pdf) and the video animations downloaded and viewed separately in the [Talk](Talk) folder.  To get the videos to play embedded in the slides download the Talk folder and open the slides in Adobe Acrobat Reader.  
 
 Running the Python code requires Python 3 and some additional libraries which can be installed with
 ```bash
